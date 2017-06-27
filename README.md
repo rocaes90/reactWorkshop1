@@ -1,7 +1,7 @@
 # ReactJS app
 
 ## ABOUT THE APP
-this project is a ReactJS implementation.
+this project is my workshop, to learn about implementation, development in ReactJS.
 
 ## WHAT TECHNOLOGIES ARE using
 ```
