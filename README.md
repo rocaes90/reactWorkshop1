@@ -3,7 +3,7 @@
 ## ABOUT THE APP
 this project is my workshop, to learn about implementation, development in ReactJS.
 
-## WHAT TECHNOLOGIES ARE using
+## WHAT TECHNOLOGIES ARE USING
 ```
 - babel
 - reactjs 
