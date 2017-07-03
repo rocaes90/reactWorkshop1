@@ -19,5 +19,6 @@ this project is my workshop, to learn about implementation, development in React
 ```
 ## RUN INDICATIONS
 ```
-npm start
+npm start // to start application
+npm run watch // to start application and watch the styles
 ```
